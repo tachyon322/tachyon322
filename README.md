@@ -2,12 +2,6 @@
 
 Я — Full‑Stack разработчик, сосредоточенный на TypeScript и современных веб‑стеке. Люблю строить рабочие стартап‑решения, full‑stack стартеры и микросервисные архитектуры. Часто работаю с Solid‑Start, Svelte, Phoenix (Elixir) и интегрирую бэкенды с фронтендом для реальных продуктов.
 
-## Кратко обо мне
-- Основной стек: TypeScript (практически во всех проектах), Solid‑Start, Svelte.
-- Серверная часть и микросервисы: Elixir / Phoenix.
-- Опыт в: Telegram mini apps, PostgreSQL (PLpgSQL), Python (утилитарные скрипты), CSS/вёрстка.
-- Ориентируюсь на практичные, разворачиваемые проекты: сайты для стартапов, учебные приложения, генераторы шаблонов full‑stack.
-
 ## Навыки и технологии
 - Языки: TypeScript (основной), Elixir, Svelte, JavaScript, Python, PLpgSQL
 - Фреймворки и инструменты: Solid‑Start, Svelte, Phoenix, Vite, Node.js
